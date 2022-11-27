@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    background-color: #555;
+    color: whitesmoke;
+    font-size: 3rem;
+}
+
+input, button {
+    font-size: inherit;
+}
