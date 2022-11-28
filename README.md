@@ -31,5 +31,19 @@ These solutions contain the solutions to the Toy problems provided in the conten
 
 
 
+## Salary Calculator
+Find the paye, NHIF deductions, and NSSF.
+Find the net salary after deducting the the deductions from the gross salary
+
+### Instructions
+Declare a basic salary variable.
+Declare a benefits variable that will add up all the benefit. I assumed that personal releif, insurance relief, pension fund, housing relief, and the owner occupier interests are the benefits.
+Declare a gross salary variable that will add the basic salary and the benefits
+Declare an NSSF variable.
+Define a condition that will calculate a person's paye and NHIF based on their gross salary bracket.
+Get the net salary by subtracting the gross salary and the the deduction(the PAYE, NHIF, and NSSF).
+
+
+
 # Licence
 These Codes belong to Emmanuel Chacha. Feel free to use them for educational purposes.
